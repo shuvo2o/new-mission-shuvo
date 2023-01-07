@@ -165,18 +165,35 @@ main {
     padding: 50px 100px;
     background: #151414;
 }
-.left-content{
-    margin: 50px 100px;
-}
 .content-title{
     color: white;
+    margin-top: 30px;
 }
 .content-discription{
     color: white;
+    margin-bottom: 20px;
 }
 .email{
     color: white;
+    margin-top: 30px;
 }
+.number{
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.left-content{
+    margin: 50px 200px;
+}
+.right-content-title{
+    padding: 50px 5px;
+    color: white;
+    font-size: 30px;
+    align-items: center;
+    margin: 5px;
+}
+
+
 
 .btn-blue {
     color: rgb(31, 193, 251);
